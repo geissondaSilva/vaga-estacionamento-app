@@ -1,0 +1,197 @@
+{
+	"info": {
+		"_postman_id": "58d025e5-7a83-420e-bfa6-c83d8fe840ff",
+		"name": "geisson",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "cadastrar usuário",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"Geisson\",\r\n    \"email\": \"geisonmsilva12@gmail.com\",\r\n    \"senha\": \"123456\",\r\n    \"grupo\": \"USER\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/auth/singin",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"auth",
+						"singin"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"email\": \"geisonmsilva12@gmail.com\",\r\n    \"senha\": \"123456\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/auth",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"auth"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "buscar todas",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJnZWlzb25tc2lsdmExMkBnbWFpbC5jb20iLCJjcmVhdGVkIjoxNTkyMzQ4MTY0NjYxLCJleHAiOjE1OTI5NTI5NjR9.sxRgAltQu5zFDAc5IWBJkhrYhvRDPUO8W0I8gU9pYdRIgnbl2HrBhfGgsGjyh_VnHhoBmxkxtFWquvEi4tADFQ",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/api/vaga",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"vaga"
+					],
+					"query": [
+						{
+							"key": "",
+							"value": null,
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "buscar próximas",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJnZWlzb25tc2lsdmExMkBnbWFpbC5jb20iLCJjcmVhdGVkIjoxNTkyMzQ4MTY0NjYxLCJleHAiOjE1OTI5NTI5NjR9.sxRgAltQu5zFDAc5IWBJkhrYhvRDPUO8W0I8gU9pYdRIgnbl2HrBhfGgsGjyh_VnHhoBmxkxtFWquvEi4tADFQ",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/api/vaga/buscar-proximos?lat=-26.2069044&lng=-52.6889229&distance=38000",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"vaga",
+						"buscar-proximos"
+					],
+					"query": [
+						{
+							"key": "lat",
+							"value": "-26.2069044"
+						},
+						{
+							"key": "lng",
+							"value": "-52.6889229"
+						},
+						{
+							"key": "distance",
+							"value": "38000"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Utilizar vaga",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJnZWlzb25tc2lsdmExMkBnbWFpbC5jb20iLCJjcmVhdGVkIjoxNTkyMzQ4MTY0NjYxLCJleHAiOjE1OTI5NTI5NjR9.sxRgAltQu5zFDAc5IWBJkhrYhvRDPUO8W0I8gU9pYdRIgnbl2HrBhfGgsGjyh_VnHhoBmxkxtFWquvEi4tADFQ",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/api/vaga/utilizar/5ee95b51aaa2764298a73ef7",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"vaga",
+						"utilizar",
+						"5ee95b51aaa2764298a73ef7"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Disponibilizar Vaga",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJnZWlzb25tc2lsdmExMkBnbWFpbC5jb20iLCJjcmVhdGVkIjoxNTkyMzQ4MTY0NjYxLCJleHAiOjE1OTI5NTI5NjR9.sxRgAltQu5zFDAc5IWBJkhrYhvRDPUO8W0I8gU9pYdRIgnbl2HrBhfGgsGjyh_VnHhoBmxkxtFWquvEi4tADFQ",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/api/vaga/disponibilizar/5ee95b51aaa2764298a73ef7",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"api",
+						"vaga",
+						"disponibilizar",
+						"5ee95b51aaa2764298a73ef7"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

@@ -1,0 +1,12 @@
+<svg id="Componente_5_1" data-name="Componente 5 – 1" xmlns="http://www.w3.org/2000/svg" width="273" height="246" viewBox="0 0 273 246">
+  <circle id="Elipse_10" data-name="Elipse 10" cx="123" cy="123" r="123" transform="translate(14)" fill="#e3f2fd"/>
+  <ellipse id="Elipse_8" data-name="Elipse 8" cx="136.5" cy="28.5" rx="136.5" ry="28.5" transform="translate(0 189)" fill="#81c784"/>
+  <g id="Grupo_357" data-name="Grupo 357" transform="translate(-50.781 -226.831)">
+    <rect id="Retângulo_198" data-name="Retângulo 198" width="13" height="129" transform="translate(112.781 315.831)" fill="#512da8"/>
+    <path id="Retângulo_199" data-name="Retângulo 199" d="M0,0H42.5A5.5,5.5,0,0,1,48,5.5v0A5.5,5.5,0,0,1,42.5,11H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(124.781 393.831)" fill="#512da8"/>
+    <rect id="Retângulo_200" data-name="Retângulo 200" width="108" height="7" transform="translate(112.781 309.831)" fill="#512da8"/>
+    <path id="Caminho_1" data-name="Caminho 1" d="M-242.741-864.371l121.06-.042s-18.832-24.264-61.5-23.955S-242.741-864.371-242.741-864.371Z" transform="translate(348.992 1175.202)" fill="#512da8"/>
+  </g>
+  <rect id="Retângulo_201" data-name="Retângulo 201" width="7" height="74" transform="translate(209 139)" fill="#9575cd"/>
+  <circle id="Elipse_9" data-name="Elipse 9" cx="21" cy="21" r="21" transform="translate(191 102)" fill="#512da8"/>
+</svg>

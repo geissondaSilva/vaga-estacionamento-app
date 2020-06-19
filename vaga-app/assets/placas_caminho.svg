@@ -1,0 +1,9 @@
+<svg id="Componente_8_1" data-name="Componente 8 – 1" xmlns="http://www.w3.org/2000/svg" width="273" height="266" viewBox="0 0 273 266">
+  <ellipse id="Elipse_17" data-name="Elipse 17" cx="128" cy="126.5" rx="128" ry="126.5" transform="translate(9)" fill="#e3f2fd"/>
+  <ellipse id="Elipse_16" data-name="Elipse 16" cx="136.5" cy="30.5" rx="136.5" ry="30.5" transform="translate(0 205)" fill="#81c784"/>
+  <rect id="Retângulo_214" data-name="Retângulo 214" width="10" height="125" transform="translate(127 98)" fill="#906ee2"/>
+  <path id="Caminho_5" data-name="Caminho 5" d="M0,0H73.066L90.514,10.057,73.066,19.993H0Z" transform="translate(116 107)" fill="#512da8"/>
+  <path id="Caminho_6" data-name="Caminho 6" d="M0,0H73.066L90.514,10.057,73.066,19.993H0Z" transform="translate(144.514 152.993) rotate(180)" fill="#512da8"/>
+  <text id="Pontos" transform="translate(148 121)" fill="#fff" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-20.585" y="0">Pontos</tspan></text>
+  <text id="Linhas" transform="translate(108 148)" fill="#fff" font-size="13" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-19.348" y="0">Linhas</tspan></text>
+</svg>

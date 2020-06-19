@@ -1,0 +1,35 @@
+<svg id="Componente_6_1" data-name="Componente 6 – 1" xmlns="http://www.w3.org/2000/svg" width="268" height="249" viewBox="0 0 268 249">
+  <ellipse id="Elipse_14" data-name="Elipse 14" cx="114" cy="113.5" rx="114" ry="113.5" transform="translate(20 3)" fill="#e3f2fd"/>
+  <ellipse id="Elipse_13" data-name="Elipse 13" cx="134" cy="34.5" rx="134" ry="34.5" transform="translate(0 180)" fill="#d5ccec"/>
+  <g id="bus" transform="translate(72.883 105.378)">
+    <rect id="Retângulo_204" data-name="Retângulo 204" width="122" height="18" rx="6" transform="translate(0.117 93.622)" fill="#512da8"/>
+    <path id="Retângulo_207" data-name="Retângulo 207" d="M13,0H92a13,13,0,0,1,13,13V94a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V13A13,13,0,0,1,13,0Z" transform="translate(8.117 -0.378)" fill="#1976d2"/>
+    <rect id="Retângulo_205" data-name="Retângulo 205" width="19" height="17" rx="6" transform="translate(16.117 107.622)" fill="#512da8"/>
+    <rect id="Retângulo_206" data-name="Retângulo 206" width="18" height="17" rx="6" transform="translate(87.117 107.622)" fill="#512da8"/>
+    <rect id="Retângulo_208" data-name="Retângulo 208" width="53" height="10" transform="translate(34.117 6.622)" fill="#fff"/>
+    <g id="Retângulo_210" data-name="Retângulo 210" transform="translate(10.117 20.622)" fill="#fff" stroke="#512da8" stroke-width="2">
+      <rect width="52" height="53" stroke="none"/>
+      <rect x="1" y="1" width="50" height="51" fill="none"/>
+    </g>
+    <g id="Retângulo_211" data-name="Retângulo 211" transform="translate(61.117 20.622)" fill="#fff" stroke="#512da8" stroke-width="2">
+      <rect width="51" height="53" stroke="none"/>
+      <rect x="1" y="1" width="49" height="51" fill="none"/>
+    </g>
+    <rect id="Retângulo_212" data-name="Retângulo 212" width="18" height="7" transform="translate(12.117 81.622)" fill="#fff"/>
+    <rect id="Retângulo_213" data-name="Retângulo 213" width="17" height="7" transform="translate(93.117 81.622)" fill="#fff"/>
+    <line id="Linha_2" data-name="Linha 2" x2="42.93" transform="translate(39.418 79.226)" fill="none" stroke="#512da8" stroke-width="1"/>
+    <line id="Linha_3" data-name="Linha 3" x2="42.93" transform="translate(39.418 80.787)" fill="none" stroke="#512da8" stroke-width="1"/>
+    <line id="Linha_4" data-name="Linha 4" x2="42.93" transform="translate(39.418 82.348)" fill="none" stroke="#512da8" stroke-width="1"/>
+    <line id="Linha_5" data-name="Linha 5" x2="42.93" transform="translate(39.418 83.91)" fill="none" stroke="#512da8" stroke-width="1"/>
+    <line id="Linha_6" data-name="Linha 6" x2="42.93" transform="translate(39.418 85.471)" fill="none" stroke="#512da8" stroke-width="1"/>
+    <line id="Linha_7" data-name="Linha 7" x2="42.93" transform="translate(39.418 87.032)" fill="none" stroke="#512da8" stroke-width="1"/>
+    <line id="Linha_8" data-name="Linha 8" x2="42.93" transform="translate(39.418 88.593)" fill="none" stroke="#512da8" stroke-width="1"/>
+    <line id="Linha_9" data-name="Linha 9" x2="42.93" transform="translate(39.418 90.154)" fill="none" stroke="#512da8" stroke-width="1"/>
+  </g>
+  <g id="RELOGIO" transform="translate(172.014 0.003)">
+    <circle id="Elipse_11" data-name="Elipse 11" cx="34.5" cy="34.5" r="34.5" transform="translate(-0.014 -0.003)" fill="#512da8"/>
+    <circle id="Elipse_12" data-name="Elipse 12" cx="5" cy="5" r="5" transform="translate(29.986 29.997)" fill="#ab47bc"/>
+    <rect id="Retângulo_202" data-name="Retângulo 202" width="5" height="28" rx="2.5" transform="translate(31.986 5.997)" fill="#ab47bc"/>
+    <rect id="Retângulo_203" data-name="Retângulo 203" width="4.931" height="17.447" rx="2.465" transform="translate(48.101 44.121) rotate(133)" fill="#ab47bc"/>
+  </g>
+</svg>

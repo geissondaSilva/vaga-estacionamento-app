@@ -1,0 +1,12 @@
+<svg id="Componente_7_1" data-name="Componente 7 – 1" xmlns="http://www.w3.org/2000/svg" width="219" height="230.061" viewBox="0 0 219 230.061">
+  <ellipse id="Elipse_15" data-name="Elipse 15" cx="109.5" cy="109" rx="109.5" ry="109" fill="#d5ccec"/>
+  <g id="Grupo_360" data-name="Grupo 360" transform="translate(73.873 23.661)">
+    <path id="Icon_awesome-map-marker-alt" data-name="Icon awesome-map-marker-alt" d="M31.816,92.653C4.981,53.75,0,49.757,0,35.46a35.46,35.46,0,0,1,70.92,0c0,14.3-4.981,18.29-31.816,57.192a4.434,4.434,0,0,1-7.289,0Z" transform="translate(0)" fill="#512da8"/>
+    <path id="Icon_material-directions-bus" data-name="Icon material-directions-bus" d="M6,34.206a6.656,6.656,0,0,0,2.229,4.948v3.968a2.236,2.236,0,0,0,2.229,2.229h2.229a2.236,2.236,0,0,0,2.229-2.229V40.893H32.748v2.229a2.236,2.236,0,0,0,2.229,2.229h2.229a2.236,2.236,0,0,0,2.229-2.229V39.154a6.656,6.656,0,0,0,2.229-4.948V11.916c0-7.8-7.98-8.916-17.832-8.916S6,4.114,6,11.916Zm7.8,2.229a3.343,3.343,0,1,1,3.343-3.343A3.339,3.339,0,0,1,13.8,36.435Zm20.061,0a3.343,3.343,0,1,1,3.343-3.343A3.339,3.339,0,0,1,33.862,36.435Zm3.343-13.374H10.458V11.916H37.206Z" transform="translate(11.614 12.205)" fill="#fff"/>
+  </g>
+  <g id="Grupo_361" data-name="Grupo 361" transform="translate(4.539 120.759)">
+    <path id="Caminho_2" data-name="Caminho 2" d="M39.26-1.177,66.942-8.918,98.6-1.177l24.11-7.741,35.137,7.741,39.1,100.638L136.865,85.144,95.453,99.461,51.959,80.982,0,99.461Z" transform="translate(1.281 9.614)" fill="#8062c6"/>
+    <path id="Caminho_3" data-name="Caminho 3" d="M-10.681-4.061,16.6-12.776,1.443,77.778-51.6,96.343Z" transform="translate(51.6 12.776)" fill="rgba(81,45,168,0.3)"/>
+    <path id="Caminho_4" data-name="Caminho 4" d="M-9.566-12.159l24.122-7.582L28.18,73.9-12.692,88.733Z" transform="translate(109.493 20.569)" fill="rgba(81,45,168,0.3)"/>
+  </g>
+</svg>
